@@ -1,0 +1,28 @@
+body{
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.quem-somos,
+.servicos,
+.bg-footer {
+	background-color: lightblue;
+}
+
+.parceiros{
+	background-color: pink;
+}
+
+p{
+	color:grey;
+}
+
+.margin{
+	padding-top: 10px;
+	padding-bottom:20px;
+}
+
+
+
+
+
